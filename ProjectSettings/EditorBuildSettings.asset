@@ -4,7 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/coolScene.unity
-    guid: 91508d4c8fb8d8447821474f2e5e3c4f
+  m_Scenes: []
